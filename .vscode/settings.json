@@ -1,0 +1,15 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.activityBar.iconClickBehavior": "toggle",
+    "workbench.activityBar.location": "default",
+    "workbench.editor.decorations.colors": true,
+    "workbench.statusBar.visible": true,
+    "workbench.tips.enabled": true,
+    "workbench.tree.enableStickyScroll": true,
+    "breadcrumbs.enabled": true,
+    "workbench.editor.dragToOpenWindow": true,
+    "workbench.editor.enablePreviewFromCodeNavigation": false,
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.preferredDarkColorTheme": "Default High Contrast",
+    "liveServer.settings.port": 5501
+}
